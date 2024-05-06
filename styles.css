@@ -1,0 +1,81 @@
+#top-div{
+    height:2px;
+    width:1400px;
+    background-color:lightgray;
+}
+.left-div > h2{
+    font-family: "SF Pro Display", serif;
+    color: #E65C19;
+    font-size: 20px;
+}
+.left-div{
+    display: inline-block;
+    padding-right: 30px;
+}
+.right-div{
+    display: inline-block;
+    height: 600px;
+    width: 350px;
+    background-color: #DDDDDD;
+    text-align: center;
+}
+.right-div > #orange-line{
+    float: left;
+    height: 600px;
+    width: 20px;
+    background-color: #E65C19;
+}
+.right-div > h1{
+    font-family: "SF Pro Display", serif;
+    font-size: 28px;
+}
+.right-div > h2{
+    font-family: "SF Pro Display", serif;
+    font-weight: normal;
+    color: #E65C19;
+}
+.right-div > p{
+    font-family: "SF Pro Display", serif;
+}
+.left-div > #tiny-line{
+    height: 250px;
+    width: 5px;
+    background-color: #E65C19;
+    float: left;
+}
+.left-div > h3{
+    text-align: center;
+}
+.left-div > #bottom-text{
+    font-family: "SF Pro Display", serif;
+}
+img{
+    padding-top: 20px;
+    display: block;
+    clear: both;
+}
+.left-div > #top-text{
+    font-family: "SF Pro Display", serif;
+}
+#main-left-div{
+    padding-right: 20px;
+}
+#main-left-div, #main-right-div{
+    display: inline-block;
+}
+#main-right-div > #first-heading{
+    font-family: "SF Pro Display", serif;
+    color: #E65C19;
+    font-size: 20px;
+}
+#main-right-div > #second-heading{
+    font-family: "SF Pro Display", serif;
+    color: #E65C19;
+    font-size: 20px;
+}
+#main-right-div > #first-paragraph{
+    font-family: "SF Pro Display", serif;
+}
+#main-right-div > #second-paragraph{
+    font-family: "SF Pro Display", serif;
+}
